@@ -27,6 +27,6 @@ list_of_rter = ['@Bitjoint2', '@MonsieurP4n4che', '@cosmaras', '@dk642', '@chest
 seed = 83552030
 np.random.seed(seed)
 
-winner = np.random.choice(list_of_rter, 1, False)[0]
-print(f"Winner is {winner}!")
-# Winner is @chestercarneva1!
+winners = np.random.choice(list_of_rter, 2, False)
+print(f"Winner of 100$ is {winners[0]}!") # Winner is @chestercarneva1!
+print(f"Winner of the Psychedelic Chihuahua NFT is {winners[1]}!") # Winner of the Psychedelic Chihuahua NFT is @mikku31!
