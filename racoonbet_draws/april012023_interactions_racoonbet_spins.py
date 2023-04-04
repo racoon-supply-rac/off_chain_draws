@@ -102,3 +102,18 @@ print(f"Winners are: ")
 for winner in winners:
     print(winner)
 print(f"Congrats :D")
+
+# Winners are:
+# juno1f08y7we7qanwnze5ydnkh4kg99xmz8mjfq4ktn
+# chihuahua1yfgvyv3jxact4l6vkdfs0kdtsfvkd0chs2h8pv
+# juno1fn0h75ee5rudwfnuc47nrkqes5pftp373xvrgj
+# juno1dmzy923gxqfatz9ea68e7d5w07f7tkfz6fxks2
+# juno1mk2yasfjljrvrxrjwj5823xh6lctkjc9aw7p56
+# juno10u7edzpnkssaaxtumd442hpv2dfn4gvq2tg4f0
+# juno109tnw70rafe458nd3k8qrn6xpan6tnx0vcac7h
+# juno1k9cspanymj2ffl576lgtp865dnfedqzwsrzsfh
+# chihuahua1k5w5fpu3qt4va27vsarddnruumqqprs84a6s9q
+# juno16r4n78rw0sqd0u939jlypnvpd08f9ux40j9y0d
+# Congrats :D
+#
+# Process finished with exit code 0
