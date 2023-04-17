@@ -100,7 +100,7 @@ np.random.seed(seed)
 winners = np.random.choice(list_of_all_addresses, 10, False)
 print(f"Winners are: ")
 for winner in winners:
-    print(winner)
+    print('"' + str(winner) + '",')
 print(f"Congrats :D")
 
 # Winners are:
